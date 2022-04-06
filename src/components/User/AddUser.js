@@ -1,4 +1,4 @@
-import classes from 'Add.module.css';
+import classes from './Add.module.css';
 
 const AddUser = () => {
     return (
